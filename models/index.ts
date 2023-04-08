@@ -1,0 +1,2 @@
+export { PostModel } from "./post";
+
